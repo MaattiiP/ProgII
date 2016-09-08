@@ -1,16 +1,18 @@
 #-*- coding: utf-8 -*-
 """
-Analisis:
+Análisis:
+Se debe poder ingresar un número N, e imprimir en pantalla 
+los números triangulares hasta N.
 
-Espececificar la solución:
+Especificar la solución:
     No recibe argumentos --> No devuelve valores
 La función debe reciber un número N introcucido por el usuario
 Y debe imprimir en pantalla los numeros triangulares de 1 hasta N.
 
 Diseño de la solución:
 Se introduce un número N
-Aplica la firmula para todos los numeros de 1 hasta N
-Imprime en pantalla los números triangulares junto con su indice
+Aplica la formula para todos los números de 1 hasta N
+Imprime en pantalla los números triangulares junto con su indice.
 
 Ejemplos:
 1 - 1
